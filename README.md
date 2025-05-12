@@ -1,6 +1,6 @@
 # Week 9 – Flask and Web Apps with Python
 
-Part of CS50x 2024 – Introduction to Computer Science by Harvard University
+Part of CS50x 2025 – Introduction to Computer Science by Harvard University
 
 ## Overview
 This week transitioned to backend web development using Flask. We built dynamic websites with routing, templating, and session management.
